@@ -8,6 +8,8 @@ Tired of boring Lorem Ipsum? This simple web app generates cheese-inspired place
 - One-click generate button for instant filler content  
 - Fun alternative to standard Lorem Ipsum  
 
+## Live Demo  
+Try it here: [loremipsume.netlify.app](https://loremipsume.netlify.app/)  
 
 ## Getting Started  
 1. Clone the repository:  
