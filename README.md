@@ -8,8 +8,6 @@ Tired of boring Lorem Ipsum? This simple web app generates cheese-inspired place
 - One-click generate button for instant filler content  
 - Fun alternative to standard Lorem Ipsum  
 
-## Screenshot  
-![Screenshot of Cheese Ipsum Generator](./screenshot.png)  
 
 ## Getting Started  
 1. Clone the repository:  
